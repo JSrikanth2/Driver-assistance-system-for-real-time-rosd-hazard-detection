@@ -1,4 +1,3 @@
-# Driver-assistance-system-for-real-time-rosd-hazard-detection
 # 🚘 Driver Assistance System for Real-Time Road Hazard Detection
 
 ## 📌 Overview
